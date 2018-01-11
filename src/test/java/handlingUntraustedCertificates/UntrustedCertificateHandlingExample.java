@@ -1,7 +1,7 @@
 package handlingUntraustedCertificates;
 
-import static com.ravi.config.BrowserConfig.CHROME_DRIVER_PATH;
-import static com.ravi.config.BrowserConfig.CHROME_SYS_KEY;
+import static com.selenium.configuration.BrowserConfig.CHROME_DRIVER_PATH;
+import static com.selenium.configuration.BrowserConfig.CHROME_SYS_KEY;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

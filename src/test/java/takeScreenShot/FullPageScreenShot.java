@@ -1,7 +1,7 @@
 package takeScreenShot;
 
-import static com.ravi.config.BrowserConfig.CHROME_DRIVER_PATH;
-import static com.ravi.config.BrowserConfig.CHROME_SYS_KEY;
+import static com.selenium.configuration.BrowserConfig.CHROME_DRIVER_PATH;
+import static com.selenium.configuration.BrowserConfig.CHROME_SYS_KEY;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -17,7 +17,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.ravi.config.StringUtil;
+import com.selenium.configuration.StringUtil;
 
 import ru.yandex.qatools.ashot.AShot;
 import ru.yandex.qatools.ashot.Screenshot;

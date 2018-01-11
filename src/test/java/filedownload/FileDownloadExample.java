@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.testng.annotations.Test;
 
-import com.ravi.config.BrowserConfig;
+import com.selenium.configuration.BrowserConfig;
 
 public class FileDownloadExample {
 	WebDriver driver;

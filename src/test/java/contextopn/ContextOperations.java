@@ -1,7 +1,7 @@
 package contextopn;
 
-import static com.ravi.config.BrowserConfig.CHROME_DRIVER_PATH;
-import static com.ravi.config.BrowserConfig.CHROME_SYS_KEY;
+import static com.selenium.configuration.BrowserConfig.CHROME_DRIVER_PATH;
+import static com.selenium.configuration.BrowserConfig.CHROME_SYS_KEY;
 
 import java.util.concurrent.TimeUnit;
 

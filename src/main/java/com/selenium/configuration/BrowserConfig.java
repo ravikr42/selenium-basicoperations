@@ -1,4 +1,4 @@
-package com.ravi.config;
+package com.selenium.configuration;
 
 import java.io.File;
 

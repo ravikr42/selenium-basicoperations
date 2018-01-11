@@ -1,4 +1,4 @@
-package com.ravi.config;
+package com.selenium.configuration;
 
 public final class TestGroupTags {
 	public static final String SMOKE = "smoke";

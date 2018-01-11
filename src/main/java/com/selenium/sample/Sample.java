@@ -1,4 +1,4 @@
-package com.ravi.sample;
+package com.selenium.sample;
 
 import java.time.LocalDateTime;
 
